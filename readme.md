@@ -60,6 +60,20 @@ result :
 # m h  dom mon dow   command
 * * * * * /usr/bin/docker exec php_backup php /var/www/html/run_backup.php >> /home/backend/backup_php_tools/backup.log 2>&1
 ```
+check log : 
+```bash
+ backend@backend  ~/backup_php_tools   master ±  tail -f /home/backend/backup_php_tools/backup.log
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-40-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-40-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+```
 ### step 6
 jika sudha berhasil backup sendiri permenit maka ganti menjadi perminggu dengan cara masuk ke cronjob nya dan ganti script nya menjadi : 
 ```bash
