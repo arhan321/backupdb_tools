@@ -143,3 +143,12 @@ zsh: command not found: docker-compose.yml
     "rows": 1253,
     "size_bytes": 285876
 }
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-42-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-42-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
