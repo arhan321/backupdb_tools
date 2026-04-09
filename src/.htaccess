@@ -1,0 +1,4 @@
+# Proteksi folder backup agar file .sql tidak bisa diakses langsung dari web
+<FilesMatch "\.(sql|bak)$">
+    Require all denied
+</FilesMatch>

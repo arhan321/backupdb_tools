@@ -1,0 +1,118 @@
+zsh: command not found: docker-compose.yml
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-25-30.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-25-30.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-27-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-27-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-28-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-28-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-29-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-29-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-30-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-30-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-31-02.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-31-02.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-32-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-32-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-33-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-33-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-34-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-34-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-35-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-35-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-36-02.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-36-02.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-37-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-37-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}
+{
+    "status": "success",
+    "message": "Backup database berhasil dibuat.",
+    "file_name": "backup_db_gaji_2026-04-10_05-38-01.sql",
+    "file_path": "/var/www/html/uploads/backup/backup_db_gaji_2026-04-10_05-38-01.sql",
+    "tables": 32,
+    "rows": 1253,
+    "size_bytes": 285876
+}

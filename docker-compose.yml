@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  php_backup:
+    build: .
+    container_name: php_backup
+    image: latest
+    volumes:
+      - ./src:/var/www/html
+      - ./httpd.vhost.conf:/etc/apache2/sites-available/000-default.conf
+    ports:
+      - 75:80
